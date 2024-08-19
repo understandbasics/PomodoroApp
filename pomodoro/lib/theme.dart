@@ -4,7 +4,7 @@ import 'package:flutter/material.dart';
 
 class AppTheme {
   // Define color constants
-  static const Color splashBackgroundColor = Color(0xFF2E2B5F); // Deep Space Blue
+  static const Color splashBackgroundColor = Color(0xFFE7F6FD); //
   static const Color homeBackgroundColor = Color(0xFF1D1F3A); // Galactic Blue
   static const Color settingsBackgroundColor = Color(0xFF1D1F3A); // Galactic Blue
   static const Color historyBackgroundColor = Color(0xFF1F1F3F); // Nebula Gray
